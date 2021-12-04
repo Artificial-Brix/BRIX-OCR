@@ -1,1 +1,1 @@
-# ocr-engine
+# BRIX-OCR
