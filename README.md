@@ -39,8 +39,10 @@ Some of the available datasets for testing and training a OCR engine:
 - [End-to-End Interpretation of the French Street Name Signs Dataset](https://paperswithcode.com/paper/end-to-end-interpretation-of-the-french)
 - [MMOCR: A Comprehensive Toolbox for Text Detection, Recognition and Understanding](https://paperswithcode.com/paper/mmocr-a-comprehensive-toolbox-for-text)
 
-# Working with issues:
-- 
+# TASKS to resolve:
+- Task 1: There are three folders given [Newspaper](https://github.com/Artificial-Brix/BRIX-OCR/tree/main/Newspaper) ,[Posters](https://github.com/Artificial-Brix/BRIX-OCR/tree/main/Posters) and [Posters](https://github.com/Artificial-Brix/BRIX-OCR/tree/main/Sheets),go inside one folder, you can find a image there, as a sample, please find similar images only and push them inside perticuler folders, minimum 50 images inside a folder will be enough to make the dataset.
+
+# How to contribute
 
 
 
