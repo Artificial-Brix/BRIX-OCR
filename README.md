@@ -46,9 +46,7 @@ Some of the available datasets for testing and training a OCR engine:
 - **Task 3**: This is the last step of the project, as you have tried all the libraries,make a custom model using the [datasets](https://github.com/Artificial-Brix/BRIX-OCR#datasets) and the take the help of the [research papers](https://github.com/Artificial-Brix/BRIX-OCR#research-papers) as well as you mentor of the project,make a jupyter notebook and complete the Task 3.
 
 
-
 # How to contribute
-
-
+Please don't push any commits in the main branch, in that case the PR will not be accepted,as there are 4 tasks, please join the [discord server](https://discord.gg/gF9yWDfbpx) first to contribute and then comment under the respective issues and then fork the repo and start working. _**HAPPY CONTRIBUTING!!!**_
 
 
