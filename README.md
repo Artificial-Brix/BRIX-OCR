@@ -28,6 +28,14 @@ Some of the available datasets for testing and training a OCR engine:
 - [Kannada-MNIST](https://paperswithcode.com/dataset/kannada-mnist)
 - [MLe2e](https://paperswithcode.com/dataset/mle2e)
 
+Drive Link of some datasets for testing and training a OCR engine:
+- [SciTSR](https://drive.google.com/file/d/1qXaJblBg9sbPN0xknWsYls1aGGtlp4ZN/view)
+- [DDI-100](https://drive.google.com/drive/folders/15L14KyFoUHAqV_f1Jn-u20YYEYVH5u8Z)
+- [Incidental Scene](https://drive.google.com/drive/folders/1kvCqqxGHv8uJVclwCkYw1-e2kC4FMOz1?usp=sharing)
+- [Born Digital](https://drive.google.com/drive/folders/1N50Xu-1OVFxmmH-RfT3NsYrALzAw8F4f?usp=sharing)
+- [FUNSD](https://drive.google.com/drive/folders/1YtMIx2YQTTGiGOaTOoUF1ecxh5x1Ho35?usp=sharing)
+- [SVT](https://drive.google.com/drive/folders/1LxBoyIaWlitvNiyIlWB12sUwmmAUDqsr?usp=sharing)
+
 # Research papers:
 - [Attention-based Extraction of Structured Information from Street View Imagery](https://paperswithcode.com/paper/attention-based-extraction-of-structured)
 - [TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models](https://paperswithcode.com/paper/trocr-transformer-based-optical-character)
